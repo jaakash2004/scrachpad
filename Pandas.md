@@ -1,5 +1,8 @@
 
 ## Swifter
+
+Swifter is a library which, “applies any function to a pandas dataframe or series in the fastest available manner.”
+
 ```import pandas as pd
 import swifter
 
